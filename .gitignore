@@ -31,3 +31,4 @@ tmp
 
 k8s/dev-resources/*
 .additionalValues.yaml
+.netrc
